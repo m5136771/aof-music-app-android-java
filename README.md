@@ -43,7 +43,7 @@ I would be super grateful to hear from anyone interested in contributing. Feel f
 
 ## Screenshots
 <p float="left">
-<img src="https://user-images.githubusercontent.com/51255499/179341883-dddd935b-382d-43be-bd36-fb31dca3a312.png" width="500" />
-<img src="https://user-images.githubusercontent.com/51255499/179342044-5ea073cf-c981-4d8a-970d-e23fad492586.png" width="500" />
+<img src="https://user-images.githubusercontent.com/51255499/179341883-dddd935b-382d-43be-bd36-fb31dca3a312.png" width="400" />
+<img src="https://user-images.githubusercontent.com/51255499/179342044-5ea073cf-c981-4d8a-970d-e23fad492586.png" width="400" />
 </p>
 
