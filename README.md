@@ -1,3 +1,5 @@
+![Artboard 1-100](https://user-images.githubusercontent.com/51255499/179341798-98be3f89-d0cf-4116-b5d8-65d00f2cfb47.jpg)
+
 # Articles of Faith Music App for Android - Java
 Android App developed in Java to display sheet music and play associated music, written and composed for members of The Church of Jesus Christ of Latter-day Saints.
 
@@ -9,7 +11,7 @@ Parents and Primary teachers may find the content helpful (though the process of
 
 ## Technically, how does it work?
 Built in Android Studio using Java.
-Each button on the Main Activity takes you to a PDF view of sheet music for each of the 13 songs included.
+Each button on the Main Activity takes you to a PDF view of sheet music for each of the 13 songs included. (<a href="https://github.com/barteksc/AndroidPdfViewer">PDFViewer</a> thanks to barteksc)
 
 At the PDF view, a Floating Action Button transforms into a media player when clicked. I coded each individual part of the player; it has all commonly expected features (Time Remaining, Time Elapsed, Seek Bar, Skip Forward/Back 15sec, Play/Pause, Reset to Beginning), in addition to a toggle switch that swaps between .mp3 tracks with and without lyrics.
 
@@ -38,3 +40,10 @@ Once it's published again, it will need some sharing to help people find out abo
 Also, the .mp3 recordings are old; it would be amazing to find people talented with different instruments and singers to re-record the music.
 
 I would be super grateful to hear from anyone interested in contributing. Feel free to submit an issue or pull request, or connect with me on <a href="https://www.linkedin.com/in/dipaolo-michael/">LinkedIn: Michael DiPaolo</a>. 
+
+## Screenshots
+<p float="left">
+<img src="https://user-images.githubusercontent.com/51255499/179341883-dddd935b-382d-43be-bd36-fb31dca3a312.png" width="500" />
+<img src="https://user-images.githubusercontent.com/51255499/179342044-5ea073cf-c981-4d8a-970d-e23fad492586.png" width="500" />
+</p>
+
