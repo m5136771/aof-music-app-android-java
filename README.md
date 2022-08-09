@@ -3,7 +3,7 @@
 # Articles of Faith Music App for Android - Java
 Android App developed in Java to display sheet music and play associated music, written and composed for members of The Church of Jesus Christ of Latter-day Saints.
 
-## What is this?
+## What is this app for?
 A friend's father wrote and composed music to help children who are members of The Church of Jesus Christ of Latter-day Saints learn the 13 Articles of Faith (foundational beliefs). In order to help share his work with people who may find it useful, she and her husband asked me to develop an app.
 
 ## Who is it for?
